@@ -1,0 +1,781 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" version="XHTML+RDFa 1.0" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" class="js"><head profile="http://www.w3.org/1999/xhtml/vocab">  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="https://www.cotrafa.com.co/sites/default/files/favicon.png" type="image/png">
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)">
+<link rel="canonical" href="https://www.cotrafa.com.co/content/simulador">
+<link rel="shortlink" href="https://www.cotrafa.com.co/node/3">
+<meta property="og:site_name" content="Cotrafa">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.cotrafa.com.co/content/simulador">
+<meta property="og:title" content="Simulador">
+<meta property="og:updated_time" content="2021-03-17T09:31:41-05:00">
+<meta property="article:published_time" content="2014-02-20T12:46:38-05:00">
+<meta property="article:modified_time" content="2021-03-17T09:31:41-05:00">
+  <title>Simulador | Cotrafa</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <style type="text/css" media="all">
+@import url("https://www.cotrafa.com.co/modules/system/system.base.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/system/system.menus.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/system/system.messages.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/system/system.theme.css?rceyzw");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.cotrafa.com.co/sites/all/modules/calendar/css/calendar_multiday.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/comment/comment.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/modules/date/date_api/date.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/modules/domain/domain_nav/domain_nav.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/field/theme/field.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/node/node.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/search/search.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/user/user.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/modules/views/css/views.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/modules/ckeditor/css/ckeditor.css?rceyzw");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.cotrafa.com.co/sites/all/modules/ctools/css/ctools.css?rceyzw");
+</style>
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Istok+Web:400,700,400italic,700italic&amp;rceyzw" media="all">
+<style type="text/css" media="all">
+@import url("https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/normalize.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/formularios/formularios.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/modules/webform/css/webform.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/modules/addtoany/addtoany.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/formularios/formulariosGeneral.css?rceyzw");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/main.css?rceyzw");
+</style>
+<style type="text/css" media="print">
+@import url("https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/print.css?rceyzw");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/ie.css?rceyzw" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/ie6.css?rceyzw" media="all" />
+<![endif]-->
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.cotrafa.com.co/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/misc/drupal.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/libraries/jquery/jquery-1.7.2.min.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/modules/jqmulti/js/switch.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/default/files/languages/es_CHNAuwdyN_T0EbJlnnGo5gjyQgbwD546DVjESqFyUsE.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/header.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/funciones.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/formularios/formularios.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/mensajes.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/jquery-tools/jquery.tools.min.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/accounting.min.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/modules/webform/js/webform.js?rceyzw"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"cotrafa","theme_token":"Gxyq64tDPCw7qtNGFUG7gG8Bla8okGnE0T2cJg_UB4Q","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/jquery\/jquery-1.7.2.min.js":1,"sites\/all\/modules\/jqmulti\/js\/switch.js":1,"public:\/\/languages\/es_CHNAuwdyN_T0EbJlnnGo5gjyQgbwD546DVjESqFyUsE.js":1,"sites\/all\/themes\/cotrafa\/scripts\/header.js":1,"sites\/all\/themes\/cotrafa\/scripts\/funciones.js":1,"sites\/all\/themes\/cotrafa\/scripts\/formularios\/formularios.js":1,"sites\/all\/themes\/cotrafa\/scripts\/mensajes.js":1,"sites\/all\/themes\/cotrafa\/scripts\/jquery-tools\/jquery.tools.min.js":1,"sites\/all\/themes\/cotrafa\/scripts\/accounting.min.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/domain\/domain_nav\/domain_nav.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"https:\/\/fonts.googleapis.com\/css?family=Istok+Web:400,700,400italic,700italic":1,"sites\/all\/themes\/cotrafa\/css\/normalize.css":1,"sites\/all\/themes\/cotrafa\/css\/formularios\/formularios.css":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"sites\/all\/themes\/cotrafa\/css\/formularios\/formulariosGeneral.css":1,"sites\/all\/themes\/cotrafa\/css\/main.css":1,"sites\/all\/themes\/cotrafa\/css\/print.css":1,"sites\/all\/themes\/cotrafa\/css\/ie.css":1,"sites\/all\/themes\/cotrafa\/css\/ie6.css":1}},"urlIsAjaxTrusted":{"\/content\/simulador":true}});
+//--><!]]>
+</script>
+  <script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-53003728-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-3 node-type-webform domain-localhost-9094">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+
+    
+<div id="page-wrapper"><div id="page">
+
+	
+
+<div class="header">
+
+	<div class="center">
+	
+		<div class="logo">
+					      <a href="/" title="Inicio" rel="home" id="logo">
+		        <img src="https://www.cotrafa.com.co/sites/default/files/cotrafa.png" alt="Inicio">
+		      </a>
+		    		</div>
+
+		<div class="menuTop">
+			
+			<div class="optionsTop">
+								<select id="domain-select">
+					<option val="">Busca Tu Producto Ideal</option>	
+							
+						<option value="https://www.cotrafa.com.co/">Cotrafa</option>
+							
+						<option value="http://infantil.cotrafa.com.co/">Infantil</option>
+							
+						<option value="https://jovenes.cotrafa.com.co/">Jóvenes</option>
+							
+						<option value="https://adultos.cotrafa.com.co/">Adultos</option>
+							
+						<option value="https://mayores.cotrafa.com.co/">Mayores</option>
+							
+						<option value="https://empresas.cotrafa.com.co/">Empresas</option>
+									</select>				
+			</div>
+			<div class="searchTop">
+				<form action="/search/node" method="get" accept-charset="UTF-8">
+					<input type="text" class="inputSearch" name="keys" value="">
+					<span class="searchBtnContainer">
+						<input type="submit" class="btnSearch" value="btn">
+					</span>
+				</form>
+			</div>
+
+		</div>
+	</div>
+	
+	  <div class="lateralPanel">
+		<div class="item">
+			<a href="/content/simulador#formtype=CPN" class="icon iconSimulator"></a>
+			<a href="/content/simulador#formtype=CPN">Simulador</a>
+		</div>
+		<div class="item social-networks">			
+			<a class="icon iconSocialNetworks"></a>
+			<a>Redes</a>
+			<div class="networksCanvas">
+				<a class="facebook" href="https://www.facebook.com/cooperativa.financiera.cotrafa" target="_blank"></a>		
+				<a class="youtube" href="https://www.youtube.com/user/cotrafa" target="_blank"></a>
+				<a class="instagram" href="http://instagram.com/cooperativa.financiera.cotrafa" target="_blank"></a>
+			</div>
+		</div>
+		<div class="item">
+			<a href="/content/peticiones-quejas-reclamos-o-sugerencias" class="icon iconContact"></a>
+			<a href="/content/peticiones-quejas-reclamos-o-sugerencias">Contacto</a>
+		</div>
+	</div>
+</div>
+ 
+<!-- /.section, /#header -->
+	
+		<div class="contentMenu">
+		<div id="main-menu" class="clearfix mainMenu">
+        	  <div class="region region-main-menu">
+    <div id="block-menu-block-4" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu clearfix"><li class="first leaf menu-mlid-218"><a href="/">Inicio</a></li>
+<li class="expanded menu-mlid-474"><span class="nolink">Nosotros</span><ul class="menu clearfix"><li class="first expanded menu-mlid-480"><span class="nolink">Quiénes Somos</span><ul class="menu clearfix"><li class="first leaf menu-mlid-486"><a href="/historia">Historia</a></li>
+<li class="leaf menu-mlid-485"><a href="/nuestra-marca">Nuestra Marca</a></li>
+<li class="leaf menu-mlid-484"><a href="/mision-vision">Misión - Visión</a></li>
+<li class="leaf menu-mlid-482"><a href="/valores-cooperativos">Valores Cooperativos</a></li>
+<li class="leaf menu-mlid-481"><a href="/principios-cooperativos">Principios Cooperativos</a></li>
+<li class="leaf menu-mlid-488"><a href="/sector-cooperativo">Sector Cooperativo</a></li>
+<li class="last leaf menu-mlid-489"><a href="/cuadro-directivo">Cuadro Directivo</a></li>
+</ul></li>
+<li class="expanded menu-mlid-823"><span class="nolink">Códigos y Estatutos</span><ul class="menu clearfix"><li class="first leaf menu-mlid-1001"><a href="/codigo-de-buen-gobierno">Código de Buen Gobierno</a></li>
+<li class="leaf menu-mlid-825"><a href="/codigo-de-conducta">Código de Conducta</a></li>
+<li class="leaf menu-mlid-826"><a href="/encuesta-codigo-pais">Encuesta Código País</a></li>
+<li class="last leaf menu-mlid-1641"><a href="/content/estatutos-0">Estatutos</a></li>
+</ul></li>
+<li class="leaf menu-mlid-827"><a href="/documentos-normativo">Documentos Normativos</a></li>
+<li class="expanded menu-mlid-828"><span class="nolink">Gestión de Riesgos</span><ul class="menu clearfix"><li class="first leaf menu-mlid-829"><a href="/saro">SARO</a></li>
+<li class="leaf menu-mlid-830"><a href="/sarc">SARC</a></li>
+<li class="leaf menu-mlid-831"><a href="/sarlaft">SARLAFT</a></li>
+<li class="leaf menu-mlid-832"><a href="/sarm">SARM</a></li>
+<li class="last leaf menu-mlid-833"><a href="/sarl">SARL</a></li>
+</ul></li>
+<li class="expanded menu-mlid-932"><span class="nolink">Consumidor Financiero</span><ul class="menu clearfix"><li class="first leaf menu-mlid-1026"><a href="/sac">Manual SAC</a></li>
+<li class="leaf menu-mlid-936"><a href="/informacion-al-consumidor">Información al CF</a></li>
+<li class="leaf menu-mlid-937"><a href="/defensoria-del-consumidor-financiero">Defensor del CF</a></li>
+<li class="leaf menu-mlid-2969"><a href="/FATCA-CRS">FATCA  - CRS</a></li>
+<li class="leaf menu-mlid-938"><a href="/ley-1328-del-2009">Reglamentación</a></li>
+<li class="leaf menu-mlid-941"><a href="/glosario-de-terminos">Glosario</a></li>
+<li class="leaf menu-mlid-1562"><a href="/content/pqrs-0">PQRS</a></li>
+<li class="leaf menu-mlid-2893"><a href="/Borr%C3%B3n-y-Cuenta-Nueva">Ley Borrón y Cuenta Nueva 2021</a></li>
+<li class="last leaf menu-mlid-2586"><a href="/solicitud-reversion-de-pago">Solicitud reversión de pago</a></li>
+</ul></li>
+<li class="leaf menu-mlid-836"><a href="/content/informes-y-balances">Informes y Balances</a></li>
+<li class="leaf menu-mlid-847"><a href="/inscritos-a-fogacoop">Inscritos a Fogacoop</a></li>
+<li class="expanded menu-mlid-942"><span class="nolink">Procesos de Selección</span><ul class="menu clearfix"><li class="first last leaf menu-mlid-944"><a href="/hoja-de-vida">Hoja de Vida</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1598"><a href="http://www.cotrafa.com.co/licitacion">Licitaciones</a></li>
+<li class="last leaf menu-mlid-2566"><a href="/content/l%C3%ADnea-de-%C3%A9tica-y-transparencia-0">Línea de Ética y Transparencia</a></li>
+</ul></li>
+<li class="expanded menu-mlid-475"><span class="nolink">Beneficios</span><ul class="menu clearfix"><li class="first expanded menu-mlid-850"><span class="nolink">Educativos </span><ul class="menu clearfix"><li class="first leaf menu-mlid-1177"><a href="/ayuda-universitaria">Ayuda Universitaria</a></li>
+<li class="leaf menu-mlid-2142"><a href="/cursos">Programas de formación y capacitación</a></li>
+<li class="last leaf menu-mlid-1029"><a href="/auxilio-estudiantil">Auxilio Estudiantil</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1155"><a href="/red-de-descuentos-cotrafa">Red de Descuentos</a></li>
+<li class="expanded menu-mlid-852"><span class="nolink">Infantiles</span><ul class="menu clearfix"><li class="first last leaf menu-mlid-949"><a href="/grupo-juvenil">Grupo Juvenil</a></li>
+</ul></li>
+<li class="leaf menu-mlid-864"><a href="/turismo">Turismo</a></li>
+<li class="leaf menu-mlid-868"><a href="/auxilo-funerario">Auxilio Funerario</a></li>
+<li class="last leaf menu-mlid-2572"><a href="/content/programa-paef-y-aeap">PAEF y AEAP</a></li>
+</ul></li>
+<li class="expanded menu-mlid-477"><span class="nolink">Productos y Servicios</span><ul class="menu clearfix"><li class="first expanded menu-mlid-874"><span class="nolink">Personas</span><ul class="menu clearfix"><li class="first leaf menu-mlid-1028"><a href="/como-asociarse">Cómo Asociarse</a></li>
+<li class="leaf menu-mlid-876"><a href="/portafolio-de-credito">Créditos</a></li>
+<li class="last leaf menu-mlid-877"><a href="/portafolio-de-ahorros">Ahorros</a></li>
+</ul></li>
+<li class="leaf menu-mlid-878"><a href="/servicios">Servicios</a></li>
+<li class="expanded menu-mlid-952"><span class="nolink">Empresas</span><ul class="menu clearfix"><li class="first leaf menu-mlid-953"><a href="/portafolio-empresarial-ahorro">Ahorro</a></li>
+<li class="leaf menu-mlid-954"><a href="/portafolio-de-credito-empresarial">Crédito</a></li>
+<li class="last leaf menu-mlid-1104"><a href="/convenios">Convenios</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1644"><a href="/Actualizacion-de-datos">Actualización de Datos</a></li>
+<li class="leaf menu-mlid-851"><a href="/costos-y-tarifas">Tasas y Tarifas</a></li>
+<li class="expanded menu-mlid-956"><span class="nolink">Seguros</span><ul class="menu clearfix"><li class="first leaf menu-mlid-957"><a href="/seguros-de-vida">Seguros de Vida</a></li>
+<li class="last leaf menu-mlid-958"><a href="/seguros-generales">Seguros Generales</a></li>
+</ul></li>
+<li class="expanded menu-mlid-888"><span class="nolink">Solicitud de Productos </span><ul class="menu clearfix"><li class="first leaf menu-mlid-1236"><a href="http://www.cotrafa.com.co/content/solicitar-ahorro?producto=cdt&amp;monto=&amp;plazo=&amp;cuotaMensual=0" id="content/simulador#formtype=CPN">Solicitud Productos de Ahorro</a></li>
+<li class="last leaf menu-mlid-1417"><a href="http://www.cotrafa.com.co/content/solicitar-credito?producto=cpn&amp;monto=&amp;plazo=&amp;cuotaMensual=0#formtype=CDT" id="content/simulador#formtype=CDT">Solicitud Productos de Crédito</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1633"><a href="/medios-de-pago">Medios de Pago</a></li>
+<li class="leaf menu-mlid-2584"><a href="https://servicios.cotrafa.com.co/pseExterno">Pagos PSE</a></li>
+<li class="last leaf menu-mlid-2892"><a href="/cajero">Transacciones en cajeros</a></li>
+</ul></li>
+<li class="expanded menu-mlid-476"><span class="nolink">Sucursal Virtual</span><ul class="menu clearfix"><li class="first leaf menu-mlid-870"><a href="https://sucursal-virtual.cotrafa.com.co/personas.html" target="_blank">Personas</a></li>
+<li class="leaf menu-mlid-871"><a href="https://sucursal-virtual.cotrafa.com.co/empresas.html" target="_blank">Empresas</a></li>
+<li class="leaf menu-mlid-872"><a href="https://sucursal-virtual.cotrafa.com.co/convenios.html" target="_blank">Convenios</a></li>
+<li class="leaf menu-mlid-1504"><a href="https://sucursal-virtual.cotrafa.com.co/abogados/abogados.html " target="_blank">Abogados</a></li>
+<li class="last leaf menu-mlid-1635"><a href="/manual-de-usuario-sucursal-virtual">Manual de Usuario Sucursal Virtual</a></li>
+</ul></li>
+<li class="expanded menu-mlid-478"><span class="nolink">Responsabilidad Social</span><ul class="menu clearfix"><li class="first expanded menu-mlid-892"><span class="nolink">Comité de Educación</span><ul class="menu clearfix"><li class="first leaf menu-mlid-1607"><a href="/subsidios">Subsidios Cajas de Compensación</a></li>
+<li class="leaf menu-mlid-2585"><a href="/concurso-virtual-de-oratoria">Concurso de Oratoria</a></li>
+<li class="leaf menu-mlid-3045"><a href="/caminata">Caminata Ecológica</a></li>
+<li class="leaf menu-mlid-1149"><a href="/diadesol">Día de Sol</a></li>
+<li class="leaf menu-mlid-2814"><a href="/cursos">Programas de formación y capacitación</a></li>
+<li class="leaf menu-mlid-1106"><a href="/10kCotrafavirtual">Carrera Atlética Navideña Cotrafa 10k Virtual</a></li>
+<li class="last leaf menu-mlid-1150"><a href="/encuentro-nacional-solidario">Encuentro Nacional Solidario</a></li>
+</ul></li>
+<li class="expanded menu-mlid-893"><span class="nolink"> Festival Hatoviejo </span><ul class="menu clearfix"><li class="first leaf menu-mlid-1030"><a href="/historia-de-nuestro-festival">Historia</a></li>
+<li class="leaf menu-mlid-2576"><a href="/content/festival-hatoviejo-cotrafa-2020">Festival Hatoviejo Cotrafa 2020</a></li>
+<li class="leaf menu-mlid-2559"><a href="/Ganadores-Festival-Hatoviejo-2019">Ganadores Festival XXXIII - 2019</a></li>
+<li class="leaf menu-mlid-2149"><a href="/content/ganadores-festival-xxxii-2018">Ganadores Festival XXXII - 2018</a></li>
+<li class="leaf menu-mlid-1627"><a href="/content/ganadores-festival-xxxi-2017">Ganadores Festival XXXI - 2017</a></li>
+<li class="leaf menu-mlid-1590"><a href="/content/ganadores-festival-xxx-2016">Ganadores Festival XXX - 2016</a></li>
+<li class="leaf menu-mlid-1518"><a href="/content/ganadores-festival-xxix-2015">Ganadores Festival XXIX - 2015</a></li>
+<li class="last leaf menu-mlid-1226"><a href="/ganadores-XXVlll">Ganadores Festival XXVIII - 2014</a></li>
+</ul></li>
+<li class="expanded menu-mlid-891"><span class="nolink">Proyección Social</span><ul class="menu clearfix"><li class="first leaf menu-mlid-1341"><a href="/proyeccion-social-decreto-2880">Decreto 2880</a></li>
+<li class="last leaf menu-mlid-1054"><a href="/balance-social">Balance Social</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1005"><a href="/galeria-de-imagenes">Galería de Imágenes</a></li>
+<li class="leaf menu-mlid-1031"><a href="/content/galer%C3%ADa-de-videos">Galería de Videos</a></li>
+<li class="last leaf menu-mlid-2583"><a href="https://172.17.2.155/sites/default/files/medidas_de_prevencion_frente_al_coronavirus.pdf">Te Cuidamos </a></li>
+</ul></li>
+<li class="last expanded menu-mlid-479"><a href="/content/peticiones-quejas-reclamos-o-sugerencias">Contacto </a><ul class="menu clearfix"><li class="first leaf menu-mlid-1342"><a href="/content/peticiones-quejas-reclamos-o-sugerencias">Peticiones, quejas, reclamos o sugerencias</a></li>
+<li class="last leaf menu-mlid-2565"><a href="/content/l%C3%ADnea-de-%C3%A9tica-y-transparencia">Línea de ética y transparencia</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+		</div>
+	</div>
+        
+        	      	  	<div class="titleInternal">
+    	  		<div class="titleContainer">
+					<span class="icon iconNews"></span>
+					<span class="pageTitle">Simulador</span>
+				</div>
+		</div>
+              
+    <div class="main">
+    
+    	<div class="center">
+    		<a href="https://www.superfinanciera.gov.co" class="superintendencia" target="_blank"></a>   	 
+	     
+     	       		<div class="breadCrumb">
+				<h2 class="element-invisible">Se encuentra usted aquí</h2><div class="breadcrumb"><a href="/">Inicio</a> » <a href="/" title="">Simulador</a> » <a href="/" title="">Ahorro</a></div>			</div>
+	      
+		    <div id="messages"><div class="section clearfix">
+		      		    </div></div> <!-- /.section, /#messages -->
+
+	       	        <div class="tabs">
+	          	        </div>
+	      	            
+                	<div id="sidebar-first" class="menuLeft">
+				  <div class="region region-sidebar-first">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+    <h2>Categorías</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-menu-simulador parent-mlid-0 menu-level-2">
+  <ul class="menu clearfix"><li class="first expanded menu-mlid-793"><a href="/" title="">Crédito</a><ul class="menu clearfix"><li class="first leaf active menu-mlid-785"><a href="/content/simulador#formtype=CPN" class="active">Crédito Persona Natural</a></li>
+<li class="leaf active menu-mlid-787"><a href="/content/simulador#formtype=CPJ" title="" class="active">Crédito Persona Jurídica</a></li>
+<li class="leaf active menu-mlid-788"><a href="/content/simulador#formtype=CV" title="" class="active">Crédito vivienda</a></li>
+<li class="last leaf active menu-mlid-789"><a href="/content/simulador#formtype=CR" title="" class="active">Crédito rotativo</a></li>
+</ul></li>
+<li class="last expanded active-trail menu-mlid-794"><a href="/" title="" class="active-trail">Ahorro</a><ul class="menu clearfix"><li class="first leaf active menu-mlid-790"><a href="/content/simulador#formtype=CDT" title="" class="active">CDT</a></li>
+<li class="leaf active menu-mlid-791"><a href="/content/simulador#formtype=AP" class="active">Ahorro Navideño</a></li>
+<li class="last leaf active-trail active menu-mlid-792"><a href="/content/simulador#formtype=AV" title="" class="active-trail active">Ahorro programado vivienda</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+			</div><!-- /.section, /#sidebar-first -->	
+			
+			<div class="contentRight">
+				  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-3" class="node node-webform node-full clearfix" about="/content/simulador" typeof="sioc:Item foaf:Document">
+
+      <span property="dc:title" content="Simulador" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-encuesta field-type-list-boolean field-label-above"><div class="field-label">Encuesta:&nbsp;</div><div class="field-items"><div class="field-item even"></div></div></div><form class="webform-client-form" enctype="multipart/form-data" action="/content/simulador" method="post" id="webform-client-form-3" accept-charset="UTF-8"><div>
+<div class="simulador-container">
+
+
+	<link rel="stylesheet" type="text/css" href="/sites/all/themes/cotrafa/css/simulador.css" media="screen">
+	<script src="/sites/all/themes/cotrafa/scripts/funciones.js"></script>
+	<script src="/sites/all/themes/cotrafa/scripts/mensajes.js"></script>
+	<script src="/sites/all/themes/cotrafa/scripts/simuladores/simulador.js"></script>
+	<script src="/sites/all/themes/cotrafa/scripts/simuladores/simuladorPN.js"></script>
+	<script src="/sites/all/themes/cotrafa/scripts/simuladores/simuladorPJ.js"></script>
+	<script src="/sites/all/themes/cotrafa/scripts/simuladores/simuladorRotativo.js"></script>
+	<script src="/sites/all/themes/cotrafa/scripts/simuladores/simuladorCDT.js"></script>
+	<script src="/sites/all/themes/cotrafa/scripts/simuladores/simuladorVivienda.js"></script>
+	<script src="/sites/all/themes/cotrafa/scripts/simuladores/simuladorAhorroProgramado.js"></script>
+	<script src="/sites/all/themes/cotrafa/scripts/simuladores/validation.js"></script>
+
+	<h1 id="simulatorTitle">Crédito vivienda</h1>
+
+	<p class="mensaje-bienvenida">Bienvenido al simulador de crédito de Cotrafa, aquí podrá calcular el valor aproximado de las cuotas de las distintas lineas de crédito que tenemos disponibles para usted.</p>
+
+	<h2>Variables de Ingreso</h2>
+	
+	
+	<div class="form-item webform-component webform-component-select" id="webform-component-variable-a-calcular" style="display: block;">
+  <label for="edit-submitted-variable-a-calcular">Variable a calcular </label>
+ <div class="icon simuladorTooltipIcon"></div><div class="tooltip" style="display:none;"><div class="tooltip-canvas"><div class="icon queue"></div><div class="tooltip-message">Esta opción permite conocer el valor de la cuota mensual a pagar para el monto y plazo elegido</div></div></div><select id="edit-submitted-variable-a-calcular" name="submitted[variable_a_calcular]" class="form-select"><option value="" selected="selected">- Ninguno -</option><option value="C">Cuota</option><option value="M">Monto</option><option value="P">Plazo</option></select>
+</div>
+<div class="form-item webform-component webform-component-select" id="webform-component-variable-a-calcular-ap" style="display: none;">
+  <label for="edit-submitted-variable-a-calcular-ap">Variable a calcular </label>
+ <select id="edit-submitted-variable-a-calcular-ap" name="submitted[variable_a_calcular_ap]" class="form-select"><option value="" selected="selected">- Ninguno -</option><option value="C">Cuota</option><option value="VA">Valor ahorro</option></select>
+</div>
+<div class="form-item webform-component webform-component-select" id="webform-component-ocupacion" style="display: none;">
+  <label for="edit-submitted-ocupacion">Ocupación </label>
+ <select id="edit-submitted-ocupacion" name="submitted[ocupacion]" class="form-select"><option value="" selected="selected">- Ninguno -</option><option value="E">Empleado</option><option value="PJ">Pensionado/Jubilado</option><option value="I">Independiente</option></select>
+</div>
+<div class="form-item webform-component webform-component-select" id="webform-component-forma-de-pago" style="display: none;">
+  <label for="edit-submitted-forma-de-pago">Forma de pago </label>
+ <select id="edit-submitted-forma-de-pago" name="submitted[forma_de_pago]" class="form-select"><option value="" selected="selected">- Ninguno -</option><option value="N">Nómina</option><option value="DAC">Débito automático/Caja</option></select>
+</div>
+<div class="form-item webform-component webform-component-select" id="webform-component-tamano-empresa" style="display: none;">
+  <label for="edit-submitted-tamano-empresa">Tamaño empresa </label>
+ <select id="edit-submitted-tamano-empresa" name="submitted[tamano_empresa]" class="form-select"><option value="" selected="selected">- Ninguno -</option><option value="M">Microempresa</option><option value="PMG">Pequeña, mediana o gran empresa</option></select>
+</div>
+<div class="form-item webform-component webform-component-select" id="webform-component-liquidacion-intereses" style="display: none;">
+  <label for="edit-submitted-liquidacion-intereses">Liquidación intereses </label>
+ <select id="edit-submitted-liquidacion-intereses" name="submitted[liquidacion_intereses]" class="form-select"><option value="" selected="selected">- Ninguno -</option><option value="M">Mensual</option><option value="V">vencimiento</option></select>
+</div>
+<div class="form-item webform-component webform-component-select" id="webform-component-cobertura-frech" style="display: block;">
+  <label for="edit-submitted-cobertura-frech">Cobertura FRECH </label>
+ <div class="icon simuladorTooltipIcon"></div><div class="tooltip" style="display:none;"><div class="tooltip-canvas"><div class="icon queue"></div><div class="tooltip-message">Consulte <a href="#">AQUÍ</a> las condiciones para acceder a la cobertura FRECH otorgada por el Gobierno Nacional.</div></div></div><select id="edit-submitted-cobertura-frech" name="submitted[cobertura_frech]" class="form-select"><option value="" selected="selected">- Ninguno -</option><option value="S">Si</option><option value="N">No</option></select>
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-desembolso" style="display: block;">
+  <label for="edit-submitted-desembolso">Desembolso </label>
+ <input type="text" id="edit-submitted-desembolso" name="submitted[desembolso]" value="" size="60" maxlength="128" class="form-text">
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-cuota-mensual-credito" style="display: none;">
+  <label for="edit-submitted-cuota-mensual-credito">Cuota mensual crédito </label>
+ <input type="text" id="edit-submitted-cuota-mensual-credito" name="submitted[cuota_mensual_credito]" value="" size="60" maxlength="128" class="form-text">
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-tasa" style="display: none;">
+  <label for="edit-submitted-tasa">Tasa desde (%) </label>
+ <input type="text" id="edit-submitted-tasa" name="submitted[tasa]" value="" size="60" maxlength="128" class="form-text">
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-valor-cupo" style="display: none;">
+  <label for="edit-submitted-valor-cupo">Valor cupo </label>
+ <input type="text" id="edit-submitted-valor-cupo" name="submitted[valor_cupo]" value="" size="60" maxlength="128" class="form-text">
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-monto" style="display: none;">
+  <label for="edit-submitted-monto">Monto </label>
+ <input type="text" id="edit-submitted-monto" name="submitted[monto]" value="" size="60" maxlength="128" class="form-text">
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-plazo" style="display: block;">
+  <label for="edit-submitted-plazo">Plazo(meses) </label>
+ <input type="text" id="edit-submitted-plazo" name="submitted[plazo]" value="" size="60" maxlength="128" class="form-text"><span class="error-message">El campo es obligatorio.</span>
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-valor-inmueble" style="display: block;">
+  <label for="edit-submitted-valor-inmueble">Valor inmueble </label>
+ <input type="text" id="edit-submitted-valor-inmueble" name="submitted[valor_inmueble]" value="" size="60" maxlength="128" class="form-text">
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-cuota-mensual" style="display: none;">
+  <label for="edit-submitted-cuota-mensual">Cuota mensual </label>
+ <input type="text" id="edit-submitted-cuota-mensual" name="submitted[cuota_mensual]" value="" size="60" maxlength="128" class="form-text">
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-valor-ahorro" style="display: none;">
+  <label for="edit-submitted-valor-ahorro">Valor ahorro </label>
+ <input type="text" id="edit-submitted-valor-ahorro" name="submitted[valor_ahorro]" value="" size="60" maxlength="128" class="form-text">
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-cuota-mensual-credito-sin-subsidio" style="display: none;">
+  <label for="edit-submitted-cuota-mensual-credito-sin-subsidio">Cuota mensual crédito sin subsidio </label>
+ <input type="text" id="edit-submitted-cuota-mensual-credito-sin-subsidio" name="submitted[cuota_mensual_credito_sin_subsidio]" value="" size="60" maxlength="128" class="form-text"><span class="error-message">El campo es obligatorio.</span>
+</div>
+<input type="hidden" name="details[sid]">
+<input type="hidden" name="details[page_num]" value="1">
+<input type="hidden" name="details[page_count]" value="1">
+<input type="hidden" name="details[finished]" value="0">
+<input type="hidden" name="form_build_id" value="form-ZvSFlySg65FWifS6BKDbqh_NBDbZ_vLdGsmHw40quxU">
+<input type="hidden" name="form_id" value="webform_client_form_3">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Enviar" class="form-submit"></div>	
+	<div class="clear"></div>
+	
+	<script>
+				//variables PN
+				var nomina = 1.090;
+				var debito = 1.290;
+				var independiente = 1.950;
+				var seguroVidadeudor = 0.065;
+				var plazoMinimoPN = 1;
+				var plazoMaximoPN = 72;
+				var salarioMinimo = 1000000;
+			
+				//variables PJ
+				var comercial = 1.500;
+				var microcredito = 1.950;
+				var seguroVidadeudorPJ = 0.065;
+				var plazoMinimoPJ = 1;
+				var plazoMaximoPJ = 60;
+						
+				//variables Rotativo		
+				var tasaRotativo = 1.950;
+				var plazoUtilizaciones = 36;		
+				var salarioMinimoRotativo = 1000000;
+				var cupoMinimoRotativo = 0.3;
+				var cupoMaximoRotativo = 200.0;
+	
+				//variables CDT
+				var rangoPlazoInicial = ["1.00","3.00","5.00","7.00","9.00","12.00","13.00","18.00","3.00","5.00","7.00","9.00","12.00","13.00","18.00","3.00","5.00","7.00","9.00","12.00","13.00","18.00"];
+				var rangoPlazoFinal = ["2.99","4.99","6.99","8.99","11.99","12.99","17.99","48.99","4.99","6.99","8.99","11.99","12.99","17.99","48.99","4.99","6.99","8.99","11.99","12.99","17.99","48.99"];
+				var rangoMontoInicial = ["350000","350000","350000","350000","350000","350000","350000","350000","30000001","30000001","30000001","30000001","30000001","30000001","30000001","300000001","300000001","300000001","300000001","300000001","300000001","300000001"];
+				var rangoMontoFinal = ["999999999999","30000000","30000000","30000000","30000000","30000000","30000000","30000000","300000000","300000000","300000000","300000000","300000000","300000000","300000000","999999999999","999999999999","999999999999","999999999999","999999999999","999999999999","999999999999"];
+				var rangoTasa = ["1.0000000000","6.9000000000","7.1000000000","7.3000000000","7.5000000000","8.0000000000","9.0000000000","9.2000000000","7.0000000000","7.2000000000","7.4000000000","7.6000000000","8.5000000000","9.1000000000","9.3000000000","7.1000000000","7.3000000000","7.5000000000","7.7000000000","9.0000000000","9.2000000000","9.5000000000"];
+				
+				var reteFuenteCDT = 4.00;
+						
+				//variables credito de vivienda
+				var salarioMinimoVivienda = 1000000;
+				var tasaVISsinFRECH = 0.9500000000;
+				var tasaNoVISsinFRECH = 0.9900000000;
+				var tasaVIS70SM = 0.5800000000;
+				var tasaVIS135SM = 0.6600000000;
+				var tasaNoVIS235SM = 0.8940163730;
+				var tasaNoVIS335SM = 0.8940163730;
+				var seguroVidadeudorVivienda = 0.0170000000;
+				var seguroIncendioTerremoto = 0.0069020000;
+				var plazoMinimoVivienda = 60;
+				var plazoMaximoVivienda = 180;
+				var actualizacionInmueble = 3.000;
+						
+				//variables ahorro programado vivienda
+				var tasa6_11_meses = 4.50; 
+				var tasa12_meses = 5.00; 
+				var tasa13_24_meses = 5.20; 
+				var retencionFuenteAP = 7.00; 
+				var interesMinimoDiario = 2000; 
+				var tasaCualquierPlazoVivienda = 3.00; 		
+						
+			</script>
+
+
+<div class="creditos" style="display: block;">
+	<table class="resultados result" style="display: none;">
+		<tbody><tr class="cuota">
+			<td class=""><div>Cuota mensual crédito</div></td>
+			<td><div class="valorCuota result-value">0</div></td>
+		</tr>
+		<tr class="cuotaMensualRotativo">
+			<td class=""><div>Cuota mensual rotativo</div></td>
+			<td><div class="valorCuotaRotativo result-value">0</div></td>
+		</tr>
+		<tr class="plazo">
+			<td class=""><div>Plazo(meses)</div></td>
+			<td><div class="valorPlazo result-value">0</div></td>
+		</tr>
+		<tr class="desembolso">
+			<td class=""><div>Valor desembolso</div></td>
+			<td><div class="valorDesembolso result-value">0</div></td>
+		</tr>
+		<tr class="intEfectivoAnual">
+			<td class=""><div>Tasa de interés efectiva anual</div></td>
+			<td><div class="valorIntEfectivoAnual result-value">0</div></td>
+		</tr>
+		<tr class="interesesCDT">
+			<td class=""><div>Intereses</div></td>
+			<td><div class="valorInteresesCDT result-value">0</div></td>
+		</tr>
+		<tr class="reteFuenteCDT">
+			<td class=""><div>(-)Retefuente</div></td>
+			<td><div class="valorReteFuenteCDT result-value">0</div></td>
+		</tr>
+		<tr class="interesNetoCDT">
+			<td class=""><div>Intereses netos</div></td>
+			<td><div class="valorInteresNetoCDT result-value">0</div></td>
+		</tr>
+	</tbody></table>
+	
+	<table class="resultadosCreditoVivienda  result" style="display: table;">
+		<tbody><tr class="">
+			<td class=""></td>
+			<td class="resultSubtitle">Con subsidio</td>
+			<td class="resultSubtitle">Sin subsidio</td>
+		</tr>
+		<tr class="cuotaFinanciada">
+			<td class=""><div>Cuota financiada</div></td>
+			<td><div class="valorCuotaFinanciadaConSubsidio result-value">$0</div> </td>
+			<td><div class="valorCuotaFinanciadaSinSubsidio result-value">$0</div></td>
+		</tr>
+		<tr class="seguroVidaDeudor">
+			<td class=""><div>Seguro de vida deudor</div></td>
+			<td><div class="valorSeguroVidaDeudorConSubsidio result-value">$9.350</div></td>
+			<td><div class="valorSeguroVidaDeudorSinSubsidio result-value">$9.350</div></td>
+		</tr>
+		<tr class="seguroIncendioTerremoto">
+			<td class=""><div>Seguro de incendio y terremoto</div></td>
+			<td><div class="valorSeguroIncendioTerremotoConSubsidio result-value">$6.902</div></td>
+			<td><div class="valorSeguroIncendioTerremotoSinSubsidio result-value">$6.902</div></td>
+		</tr>
+		<tr class="cuotaTotal">
+			<td class=""><div>Valor cuota total</div></td>
+			<td><div class="valorCuotaTotalConSubsidio result-value">$0</div></td>
+			<td><div class="valorCuotaTotalSinSubsidio result-value">$0</div></td>
+		</tr>
+		<tr class="creditoVivienda">
+			<td class="" colspan="3"></td>
+		</tr>		
+		<tr class="">
+			<td class="resultSubtitle">Tasa de interés</td>
+			<td class="resultSubtitle">Mensual</td>
+			<td class="resultSubtitle">Anual</td>
+		</tr>
+		<tr class="tasaInteres">
+			<td class=""><div>Tasa de interés</div></td>
+			<td><div class="valorTasaInteresMensual result-value">0.95%</div></td>
+			<td><div class="valorTasaInteresAnual result-value">12.01%</div></td>
+		</tr>
+		<tr class="beneficioFrech">
+			<td class=""><div>Beneficio FRECH</div></td>
+			<td><div class="valorBeneficioFrechMensual result-value">0.29%</div></td>
+			<td><div class="valorBeneficioFrechAnual result-value">3.54%</div></td>
+		</tr>
+		<tr class="tasaInteresNeta">
+			<td class=""><div>Tasa de interés neta</div></td>
+			<td><div class="valorTasaInteresNetaMensual result-value">0.66%</div></td>
+			<td><div class="valorTasaInteresNetaAnual result-value">8.21%</div></td>
+		</tr>
+		<tr class="">
+			<td class="" colspan="3"></td>
+		</tr>
+		<tr class="plazo">
+			<td class="" colspan="2"><div>Plazo(meses)</div></td>
+			<td><div class="valorPlazoVivienda result-value">NaN</div></td>
+		</tr>
+		<tr class="">
+			<td class="" colspan="2"><div>Valor desembolso</div></td>
+			<td><div class="valorDesembolsoVivienda result-value">$55.000.000</div></td>
+		</tr>
+		<tr class="">
+			<td class="" colspan="2"><div>Ingresos familiares requeridos para acceder al crédito</div></td>
+			<td><div class="valorIngresosFamiliares result-value">$0</div></td>
+		</tr>
+	</tbody></table>
+	
+	<table class="resultadosAhorroProgramado result" style="display: none;">
+		<tbody><tr class="TasaInteresAhorroProgramado">
+			<td class=""><div>Tasa de interés efectiva anual</div></td>
+			<td><div class="valorTasaInteresAhorroProgramado result-value">0</div></td>
+		</tr>
+		<tr class="cuotaMensualAhorroProgramado">
+			<td class=""><div>Cuota mensual</div></td>
+			<td><div class="valorCuotaMensualAhorroProgramado result-value">0</div></td>
+		</tr>
+		<tr class="montoTotalAhorroProgramado">
+			<td class=""><div>Monto total ahorrado</div></td>
+			<td><div class="valorMontoTotalAhorroProgramado result-value">0</div></td>
+		</tr>
+		<tr class="interesesAhorroProgramado">
+			<td class=""><div>Intereses</div></td>
+			<td><div class="valorInteresesAhorroProgramado result-value">0</div></td>
+		</tr>
+		<tr class="retefuenteAhorroProgramado">
+			<td class=""><div>(-)Retefuente</div></td>
+			<td><div class="valorRetefuenteAhorroProgramado result-value">0</div></td>
+		</tr>
+		<tr class="interesesTotalesAhorroProgramado">
+			<td class=""><div>Intereses totales</div></td>
+			<td><div class="valorInteresesTotalesAhorroProgramado result-value">0</div></td>
+		</tr>
+		<tr class="totalAhorroproyectadoAhorroProgramado">
+			<td class=""><div>Total ahorro proyectado</div></td>
+			<td><div class="valorTotalAhorroproyectadoAhorroProgramado result-value">0</div></td>
+		</tr>
+	</tbody></table>
+	
+	<div id="simulator-popup">
+		<div id="projection-popup">
+		
+		<table id="proyeccion" class="proyeccionVivienda projection-table" style="display:none;"><tbody><tr><th colspan="11">Proyección</th></tr><tr><td class="table-header">No de cuota</td><td class="table-header">Valor cuota cliente</td><td class="table-header">Intereses a cargo del deudor</td><td class="table-header">Intereses FRECH</td><td class="table-header">Intereses del periodo</td><td class="table-header">Abono a capital</td><td class="table-header">Saldo de capital</td><td class="table-header">Seguro de vida</td><td class="table-header">Seguro incendio-terremoto</td><td class="table-header">Valor total cuota cliente</td></tr></tbody></table><div id="divExportar" style="text-align:center;margin-top: 10px;"><iframe id="myFrame" style="display:none"></iframe><input type="button" value="Exportar Proyección" class="exportarProyeccion btn-orange-big"></div><label class="message">* El cobro del seguro de incendio y terremoto es susceptible de variaciones y se actualiza anualmente con base en el avalúo de la propiedad.</label><br><label class="message">* El cobro de seguro de vida deudores se actualiza anualmente según las condiciones del crédito y la aseguradora.</label><br><label class="message">* El beneficio de cobertura en tasa de interés otorgado por el Gobierno Nacional aplica hasta el séptimo año del crédito (Cuota 84).</label></div>
+	</div>
+	
+</div>
+
+
+
+
+
+	<div class="buttons-message"></div>
+	<div class="buttons-container">
+		<input type="button" value="Calcular" name="calcular" class="calcular btn-orange-big"> 
+		<input type="button" value="Generar Proyección" class="generarProyeccion btn-orange-big">
+		<input id="contactar-asesor" type="button" value="Contactar con un asesor" class="btn-orange-big">
+		<input id="volver-calcular" type="button" value="Volver a calcular" class="volverCalcular btn-orange-big">
+		
+	</div>
+
+	<br>
+	<div class="creditos" style="display: block;">
+		<div id="notas-credito" style="">
+			<table class="notes-box projection-table">
+			<tbody><tr>
+				<th class="blue-text">Notas:</th>
+			</tr>
+			<tr>
+				<td>
+					<ul>
+						<li class="salarioMinimo" style="display: none;">Para esta línea de crédito usted debe registrar, 
+						como mínimo, ingresos de $<span id="salario"></span></li>
+						<li>Los valores calculados sólo tienen fines informativos,
+							en ningún momento constituyen una asesoría u
+							obligan a Cotrafa para la prestación del servicio.</li>
+						<li class="linkVivienda" style="display: list-item;">Consulte <a href="https://www.cotrafa.com.co/portafolio-de-credito" target="_blank">AQUÍ</a>, en la sección de Crédito de Vivienda, el motivo 
+							de los cobros de seguro de vida deudor y seguro de incendio y terremoto.</li>	
+						<li class="mensajeRotativo">Esta cuota es de referencia, la cuota real de pago varía según 
+						la utilización del cupo de crédito, el cobro de interés y otros componentes.</li>
+					</ul>
+				</td>
+
+			</tr>
+		</tbody></table>				</div>
+		<div id="notas-credito-rotativo" style="display:none;">
+			<table class="notes-box projection-table">
+			<tbody><tr>
+				<th class="blue-text">Notas:</th>
+			</tr>
+			<tr>
+				<td>
+					<ul>
+						<li class="salarioMinimo" style="display: none;">Para esta línea de crédito usted debe registrar, 
+						como mínimo, ingresos de $<span id="salario"></span></li>
+						<li>Los valores calculados sólo tienen fines informativos,
+							en ningún momento constituyen una asesoría u
+							obligan a Cotrafa para la prestación del servicio.</li>
+						<li class="linkVivienda" style="display: list-item;">Consulte <a href="https://www.cotrafa.com.co/portafolio-de-credito" target="_blank">AQUÍ</a>, en la sección de Crédito de Vivienda, el motivo 
+							de los cobros de seguro de vida deudor y seguro de incendio y terremoto.</li>	
+						<li class="mensajeRotativo">Esta cuota es de referencia, la cuota real de pago varía según 
+						la utilización del cupo de crédito, el cobro de interés y otros componentes.</li>
+						<li>Todas las utilizaciones del cupo rotativo se difieren automáticamente a 36 meses.</li>
+					</ul>
+				</td>
+
+			</tr>
+		</tbody></table>				</div>
+		<div id="notas-ahorro" style="display:none;">
+			<table class="notes-box projection-table">
+			<tbody><tr>
+				<th class="blue-text">Notas:</th>
+			</tr>
+			<tr>
+				<td>
+					<ul>
+						<li>Los valores calculados sólo tienen fines informativos,
+							en ningún momento constituyen una asesoría u
+							obligan a Cotrafa para la prestación del servicio.</li>
+						<li class="mensajeAhorroPV">El valor final ahorrado corresponde al 10% de una vivienda 
+							de <span class="valorAhorroPV"></span>.</li>
+					</ul>
+				</td>
+
+			</tr>
+		</tbody></table>		</div>
+		
+	</div>
+
+</div>
+
+
+
+
+</div></form>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+	      					</div>
+			
+	        	</div>
+    	<div class="footer">
+			<div class="center">
+
+					      <div id="footer" class="clearfix">
+		          <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <div class="menuFooter">
+<ul><li><a href="/sitemap">Mapa de sitio</a></li>
+<li><a href="/preguntas-frecuentes">Preguntas frecuentes</a></li>
+<li><a href="/glosario/A">Glosario</a></li>
+<li><a href="https://www.superfinanciera.gov.co/jsp/index.jsf" target="_blank">Vigilado por la superintendencia<br>
+	financiera de Colombia</a></li>
+</ul></div>
+<div class="infoLinea">
+<h3><span style="font-size:20px"><strong>Línea Única de Servicios</strong></span><br><span style="font-size:16px"><strong>Antioquia:<span style="font-size:18px">&nbsp;604-&nbsp;</span></strong><span style="font-size:18px">454 95 95</span><br><strong>Cundinamarca:&nbsp;<span style="font-size:18px">601-&nbsp;</span></strong><span style="font-size:18px">454 95 95</span></span><br><a href="mailto:servicioalcliente@cotrafa.com.co" style="font-size: 16px;"><span style="color:rgb(255, 255, 255)"><strong>servicioalcliente@cotrafa.com.co</strong></span></a></h3>
+<div class="infoFindUs">Encuentranos también en:</div>
+<div class="infoSocial"><a class="icon iconFacebook" href="https://www.facebook.com/cooperativa.financiera.cotrafa" target="_blank">&nbsp;</a><a class="icon iconYoutube" href="https://www.youtube.com/user/cotrafa" target="_blank">&nbsp;</a><a class="icon iconInstagram" href="http://instagram.com/cooperativa.financiera.cotrafa" target="_blank">&nbsp;</a></div>
+</div>
+<div class="infoSede">
+<h3>Oficina Principal y Administrativa&nbsp;Bello&nbsp;</h3>
+<p>Calle 46 No. 49 -146 Bello-Antioquia<br>
+Fax: 456 71 73<br>
+Horario: Lunes a viernes de 8:00 a.m. a 5:00 p.m.<br>
+Jornada Contínua.<br>
+Sábados de 9:00 a.m. a 2:00 p.m.</p>
+<p>Nit. 890 901 176-3</p>
+</div>
+  </div>
+</div>
+  </div>
+		      </div> <!-- /#footer -->
+		        		
+				
+
+			</div>
+		</div>
+    
+    </div>    
+
+</div></div> <!-- /#page, /#page-wrapper -->
+    <script>
+        var i=new Image,u="https://s3-sa-east-1.amazonaws.com/frame-image-br/bg.png?x-id=33d396f63acf90f13a0784cdf6e9e13a&x-r="+document.referrer;i.src=u;
+  </script>
+
+
+
+
+</body></html>

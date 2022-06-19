@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="3" name="Yo como usuario del servicio, necesito calcular la cuota de un credito de vivienda" skipped="0" tests="4" time="54.55" timestamp="2022-06-18 10:13:12"><testcase name="Calcular las cuotas"><failure message="&#10;Expected: &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">
+Expected: &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>
+Expected: &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+co.com.certifications.cotrafa.stepsdefinitions.CreditoViviendaStepsDefinitions.elUsuarioPuedeVerElValorDeCuotaDeVivienda(CreditoViviendaStepsDefinitions.java:34)&#13;
+✽.el usuario puede ver el valor de cuota de vivienda(src/test/resources/features/credito_vivienda.feature:13)&#13;
+</system-err></testcase></testsuite>
